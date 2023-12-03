@@ -1,0 +1,19 @@
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/filter_sales_O"
+        android:title="판매 O"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/filter_sales_X"
+        android:title="판매 X"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/new_post"
+        android:title="새 글 작성"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/messageList"
+        android:title="메시지 확인"
+        app:showAsAction="never" />
+</menu>
